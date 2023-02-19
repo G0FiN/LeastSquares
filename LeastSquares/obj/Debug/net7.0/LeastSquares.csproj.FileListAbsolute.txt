@@ -1,0 +1,15 @@
+/Users/sergejvodanov/Projects/LeastSquares/LeastSquares/bin/Debug/net7.0/LeastSquares
+/Users/sergejvodanov/Projects/LeastSquares/LeastSquares/bin/Debug/net7.0/LeastSquares.deps.json
+/Users/sergejvodanov/Projects/LeastSquares/LeastSquares/bin/Debug/net7.0/LeastSquares.runtimeconfig.json
+/Users/sergejvodanov/Projects/LeastSquares/LeastSquares/bin/Debug/net7.0/LeastSquares.dll
+/Users/sergejvodanov/Projects/LeastSquares/LeastSquares/bin/Debug/net7.0/LeastSquares.pdb
+/Users/sergejvodanov/Projects/LeastSquares/LeastSquares/obj/Debug/net7.0/LeastSquares.csproj.AssemblyReference.cache
+/Users/sergejvodanov/Projects/LeastSquares/LeastSquares/obj/Debug/net7.0/LeastSquares.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejvodanov/Projects/LeastSquares/LeastSquares/obj/Debug/net7.0/LeastSquares.AssemblyInfoInputs.cache
+/Users/sergejvodanov/Projects/LeastSquares/LeastSquares/obj/Debug/net7.0/LeastSquares.AssemblyInfo.cs
+/Users/sergejvodanov/Projects/LeastSquares/LeastSquares/obj/Debug/net7.0/LeastSquares.csproj.CoreCompileInputs.cache
+/Users/sergejvodanov/Projects/LeastSquares/LeastSquares/obj/Debug/net7.0/LeastSquares.dll
+/Users/sergejvodanov/Projects/LeastSquares/LeastSquares/obj/Debug/net7.0/refint/LeastSquares.dll
+/Users/sergejvodanov/Projects/LeastSquares/LeastSquares/obj/Debug/net7.0/LeastSquares.pdb
+/Users/sergejvodanov/Projects/LeastSquares/LeastSquares/obj/Debug/net7.0/LeastSquares.genruntimeconfig.cache
+/Users/sergejvodanov/Projects/LeastSquares/LeastSquares/obj/Debug/net7.0/ref/LeastSquares.dll
